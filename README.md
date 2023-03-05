@@ -65,14 +65,14 @@ You should be good to go!
 <img width="1436" src="https://user-images.githubusercontent.com/108229029/222712419-fc6755a7-6914-4fd1-b5c8-b704c7583f01.png">
 
 <div>
-    <img width="430" src="https://user-images.githubusercontent.com/108229029/222880031-b1c7d304-0e5e-483c-8d29-9da2e55cd133.png">
-    <img width="430" src="https://user-images.githubusercontent.com/108229029/222880056-9c2246a3-1981-492f-a90a-46daedb1c007.png">
+    <img width="380" src="https://user-images.githubusercontent.com/108229029/222880031-b1c7d304-0e5e-483c-8d29-9da2e55cd133.png">
+    <img width="380" src="https://user-images.githubusercontent.com/108229029/222880056-9c2246a3-1981-492f-a90a-46daedb1c007.png">
 </div>
 
 <div>
-    <img width="320" src="https://user-images.githubusercontent.com/108229029/222713541-04e14e99-a672-46ff-8479-01045071a16e.png">
-    <img width="320" src="https://user-images.githubusercontent.com/108229029/222713690-df7d5217-217d-45ef-9c76-dd7668e7b044.png">
-    <img width="320" src="https://user-images.githubusercontent.com/108229029/222713748-1a2116ed-ce4c-47aa-b1fc-ff5e813529d2.png">
+    <img width="300" src="https://user-images.githubusercontent.com/108229029/222713541-04e14e99-a672-46ff-8479-01045071a16e.png">
+    <img width="300" src="https://user-images.githubusercontent.com/108229029/222713690-df7d5217-217d-45ef-9c76-dd7668e7b044.png">
+    <img width="300" src="https://user-images.githubusercontent.com/108229029/222713748-1a2116ed-ce4c-47aa-b1fc-ff5e813529d2.png">
 </div>
 
 
