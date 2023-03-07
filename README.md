@@ -1,6 +1,6 @@
 # Instagram Clone (instagram-clone)
 
-### Tutorial showing you how to build Facebook
+### Tutorial showing you how to build Instagram 
 
 If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
 
